@@ -10,6 +10,8 @@ arbitrary Ruby processes that are already running.
 
 It's currently alpha software, and is being actively developed. Please report bugs!
 
+<img src="https://user-images.githubusercontent.com/817739/35197779-dfae334e-feb2-11e7-95f5-02d80a39e5bb.gif">
+
 ## Requirements
 
 rbspy only runs on Linux\*. Mac support is planned.
