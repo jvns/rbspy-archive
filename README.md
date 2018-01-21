@@ -23,7 +23,7 @@ rbspy only runs on Linux\*. Mac support is planned.
 
 ## How to get rbspy
 
-1. Download recent release of `rbspy` (download from [the github releases page](https://github.com/rbspy/rbspy/releases))
+1. Download recent release of `rbspy` from [the github releases page](https://github.com/rbspy/rbspy/releases)
 2. Unpack it
 3. Move the `rbspy` binary to `/usr/local/bin`
 
